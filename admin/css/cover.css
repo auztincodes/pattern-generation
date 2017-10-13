@@ -1,0 +1,26 @@
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.request {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2%;
+  background-color: darkgrey;
+}
+
+.input {
+  padding:1%;
+}
+
+.files {
+  text-align: center;
+}
+
+.image {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}

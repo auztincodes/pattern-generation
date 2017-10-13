@@ -1,0 +1,224 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+ 	background:#fff;
+	background-image: url("../images/wyt.jpg");
+	background-repeat: no-repeat;
+	font-size: 14px;
+	font-size: normal;
+	font-family: 'Oxygen-Regular';
+    height: auto;
+    width: 100%;
+    margin: 0;
+
+}
+
+.nav_style {
+    background: #ffe366;
+      padding: 2em 0;
+      line-height: 40px;
+}
+.navcol ul li a{
+    font-size: 20px;
+    text-align: center;
+    color: teal !important;
+}
+.navcol ul li a:hover  {
+    background: #fff !important;
+        color: #fe9126 !important;
+
+}
+
+ .logo h1 a{
+    font-size:65%;
+    text-align: center;
+    margin: 0em 0 0;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    text-decoration: none;
+    color:teal !important;
+    padding: center;
+}
+a .navbar-brand{
+    float: left;
+}
+
+.navbar-brand{
+  margin-top: -45px !important;
+/* line-height:20px !important;
+*/
+padding-bottom: -50px !important;
+}
+.navbar-default .navbar-nav {
+  margin-top: 19px;
+}
+.navbar-default .navbar-nav {
+  margin-top: 19px;
+}
+.navbar-toggle{
+    background-color:#ffdb4d;
+}
+
+/*
+.section{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}*/
+.bg_display{
+    width: 100%;
+    height: 100%;
+    margin-top: 90px;
+    background-image: url('../images/bg1.jpg')  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-opacity: 0.6 ;
+
+}
+   
+ ul{
+	padding: 0;
+	margin: 0;
+}
+h1,h2,h3,h4,h5,h6,label,p{
+	margin:0;	
+}
+.content-caption{
+
+    text-align: center !important;
+    padding-top: 120px !important;
+   
+    display: block;
+    box-sizing: border-box;
+}
+
+ .main_text{
+    font-size: 60px !important;
+    color: #6699cc !important;
+    font-weight:400;
+}
+.main_text1{
+    font-size: 30px !important;
+    color: #6699cc !important;
+    font-weight:100;
+}
+.getstarted {
+    margin-top: 50px !important;
+}
+/*
+.navbar{
+  	
+  	  padding: 0.8em 0;
+  	  line-height: 40px;
+}*//*
+.bgimage{
+	margin-top: 5%;
+	background: url(../images/bg1.jpg)no-repeat center center;
+	background-size: cover;
+	-moz-background-size: cover;
+ 	-o-background-size: cover;
+	-webkit-background-size: cover;
+
+
+}*/
+
+.login {
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	margin-top: 120px;
+	margin-bottom: 180px;
+}
+.login h2{
+	font-size: 3em;
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	font-weight: 700;
+    color: #6699cc;
+}
+.register{
+	background-color: rgba(224, 235, 235, 0.7);
+	margin-top: 50px; 
+	border-radius: 4px;
+    padding: 3em;
+	
+	
+}
+.register input[type="email"], .register input[type="password"], .register input[type="text"] {
+    outline: none;
+    border: 1px solid #DBDBDB;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    color: #999;
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.forgot {
+    margin: 1.5em 0 0;
+    text-align: left;
+    font-weight: : 20px; 
+}
+.forgot a{
+	color:#212121;
+	font-size:14px;
+	text-decoration:none;
+}
+.forgot a:hover{
+	color:#d8703f;
+}
+
+.register input[type="submit"]{
+	outline: none;
+    border: none;
+    padding: 10px 0;
+    font-size: 20px;
+    color: #fff;
+    display: block;
+    width: 100%;
+    background:#3399cc;
+    margin: 1.5em 0 0;
+}
+.register input[type="submit"]:hover{
+	background:#fe9126;
+}
+.register ::-webkit-input-placeholder{
+	color:#999;
+}
+.register h4 {
+    margin: 2em 0 0.5em;
+    font-size: 1em;
+    color: #212121;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+.register p a {
+    color: #fe9126;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 0 .5em;
+}
+.footer {
+    margin-top:40% ;
+    background: #2b2a2a;
+    padding: 35px 0;
+
+}
+.footer p{
+
+	color:#afafaf;
+	line-height:50px;
+	margin-bottom:2em;
+	font-size: 1.5em;
+	margin-top: 1.5em;
+}
+p .fot{
+	color: #ffdb4d;
+	margin-top: 50px;
+} 
